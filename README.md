@@ -14,7 +14,7 @@
 - ⚙️ Working with **Python, Bash, GitHub, and CI/CD Pipelines**
 - 📚 Learning more about **Monitoring, Security, and IaC**
 - 💬 Ask me about **AWS, Docker, or DevOps tools**
-- 🎯 Goal: To build and deploy efficient cloud systems with automation
+- 🎯 Goal: To design, automate, and deploy scalable cloud infrastructure using modern DevOps         practices.  
 
 ---
 
@@ -68,11 +68,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/umar-faisal-mirza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:umar.faisalmirza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:omer.faisal1233@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Mirzzayy101"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-> 🧠 *“First you learn the tools, then you master the systems.”*  
+> 🧠 *“Automation is not just about efficiency — it’s about enabling innovation.”*  
 > — A DevOps Philosophy

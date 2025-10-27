@@ -51,3 +51,28 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP%20Practices-000000?logo=owasp&logoColor=white)
 ![Security%20Groups](https://img.shields.io/badge/Security%20Groups-006400?logo=shield&logoCol)
+
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mirzzayy101&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirzzayy101&layout=compact&theme=radical" height="170" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/umar-faisal-mirza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:umar.faisalmirza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Mirzzayy101"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+> 🧠 *“First you learn the tools, then you master the systems.”*  
+> — A DevOps Philosophy

@@ -1,34 +1,45 @@
-<h1 align="center">Hi 👋, I'm Mirzzayy101</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Learner of Modern Infrastructure</h3>
+# 👋 Hi, I'm Umar Faisal
+
+**Aspiring DevOps Engineer**  
+📧 **omer.mirza1233@gmail.com** | 📞 **+92 332 2234444**  
+📍 **Karachi, Sindh, Pakistan**  
+🔗 [LinkedIn](https://www.linkedin.com/in/umar-faisal-mirza) | [GitHub](https://github.com/MirrzaY101)
 
 ---
 
-### 🧠 About Me
-- 🌱 I’m currently learning **Kubernetes, Terraform, and Cloud Automation**
-- 💻 Building **CI/CD pipelines** using Jenkins, GitHub Actions, and Docker
-- ☁️ Exploring AWS services (EC2, S3, IAM, Lambda)
-- 💬 Ask me about **DevOps, Linux, and Cloud Deployment**
-- 📫 Reach me at **your.email@example.com**
+## 🚀 About Me
+I'm a passionate **DevOps Engineer** with hands-on experience in **AWS**, **Docker**, **Terraform**, and **CI/CD pipelines**.  
+I love automating deployments, optimizing infrastructure, and learning modern cloud technologies.  
+Currently seeking an **entry-level or internship** role to apply my skills and grow in a professional environment.
 
 ---
 
-### 🧰 Tech Stack & Tools
+## 🧠 Technical Skills
 
-#### ⚙️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+| Category | Skills |
+|-----------|---------|
+| ☁️ **Cloud Platforms** | AWS (EC2, S3, VPC, ECR, ECS) |
+| 💻 **Programming Languages** | Python, Bash Scripting |
+| 🔄 **Version Control** | Git, GitHub |
+| 📈 **Monitoring Tools** | Prometheus, Grafana, ELK Stack |
+| 🌐 **Networking** | TCP/IP, DNS, VPN, Load Balancers |
+| 🧩 **Code Quality & Security** | SonarQube, OWASP Practices, Security Groups, IAM Policies |
 
-#### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+---
 
-#### 🧩 Monitoring & Tools
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](htt)
+## 🎓 Education
+
+**Mohammad Ali Jinnah University**  
+📅 *BS Software Engineering (Sep 2021 – Aug 2025)*  
+📅 *MS Software Engineering (Sep 2025 – Present)*  
+
+---
+
+## 📊 GitHub Stats
+
+![Umar Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=MirrzaY101&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MirrzaY101&layout=compact&theme=tokyonight)
+
+---
+
+⭐️ **“Continuous Learning, Continuous Deployment.”**

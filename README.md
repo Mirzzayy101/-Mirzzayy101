@@ -14,7 +14,7 @@
 - ⚙️ Working with **Python, Bash, GitHub, and CI/CD Pipelines**
 - 📚 Learning more about **Monitoring, Security, and IaC**
 - 💬 Ask me about **AWS, Docker, or DevOps tools**
-- 🎯 Goal: To design, automate, and deploy scalable cloud infrastructure using modern DevOps         practices.  
+- 🎯 Goal: Build once. Deploy everywhere. Automate everything.  
 
 ---
 
